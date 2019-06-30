@@ -8,6 +8,10 @@ Problem | Submission
 ------- | ----------
 [Say "Hello, World!" With C++](https://www.hackerrank.com/challenges/cpp-hello-world/problem) | [cpp-hello-world.cpp](cpp-hello-world.cpp)
 [Input and Output](https://www.hackerrank.com/challenges/cpp-input-and-output/problem) | [cpp-input-and-output.cpp](cpp-input-and-output.cpp)
+[Basic Data Types](https://www.hackerrank.com/challenges/c-tutorial-basic-data-types/problem) | 
+[Conditional Statements](https://www.hackerrank.com/challenges/c-tutorial-conditional-if-else/problem) |
+[For Loop](https://www.hackerrank.com/challenges/c-tutorial-for-loop/problem) |
+[Functions](https://www.hackerrank.com/challenges/c-tutorial-functions/problem) |
 
 * #### **_Medium_** :
 
