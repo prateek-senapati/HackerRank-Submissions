@@ -12,6 +12,8 @@ Problem | Submission
 [Conditional Statements](https://www.hackerrank.com/challenges/c-tutorial-conditional-if-else/problem) | [conditional-if-else.cpp](conditional-if-else.cpp)
 [For Loop](https://www.hackerrank.com/challenges/c-tutorial-for-loop/problem) | [for-loop.cpp](for-loop.cpp)
 [Functions](https://www.hackerrank.com/challenges/c-tutorial-functions/problem) | [functions.cpp](functions.cpp)
+[Pointer](https://www.hackerrank.com/challenges/c-tutorial-pointer/problem) | [pointer.cpp](pointer.cpp)
+[Arrays Introduction](https://www.hackerrank.com/challenges/arrays-introduction/problem) | [arrays-introduction.cpp](arrays-introduction.cpp)
 
 * #### **_Medium_** :
 
